@@ -28,12 +28,12 @@ A modern ASP.NET Core MVC application for managing student information, develope
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/Stud-Info__CRUD.git
+   git clone https://github.com/Khadalicioso/student_information_system.git
    ```
 
 2. Navigate to the project directory
    ```bash
-   cd Stud-Info__CRUD
+   cd student_information_system
    ```
 
 3. Open the solution in Visual Studio or your preferred IDE
