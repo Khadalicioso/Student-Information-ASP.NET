@@ -106,15 +106,6 @@ StudentInfo/
 - **UI/UX:** Responsive Bootstrap design
 - **Security:** XSS protection, secure auth flow
 
-## 🖼️ Screenshots
-
-<details>
-<summary>View Application Screenshots</summary>
-
-*Coming soon...*
-
-</details>
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
