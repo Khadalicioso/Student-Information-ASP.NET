@@ -1,11 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StudentInfo.Data;
 using StudentInfo.Models;
 using StudentInfo.Models.Entities;
+using Microsoft.AspNetCore.Authorization;
 
 namespace StudentInfo.Controllers
 {
+    [Authorize]
     public class StudentController : Controller
     {
         private readonly ApplicationDbContext dbContext;
