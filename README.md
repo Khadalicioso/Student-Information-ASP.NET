@@ -1,4 +1,4 @@
-# 🎓 Student Information System
+# 🎓 Student Information
 
 <div align="center">
 
@@ -62,8 +62,8 @@ A modern, secure, and user-friendly student information management system built 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Khadalicioso/student_information_system.git
-   cd student_information_system
+   git clone https://github.com/Khadalicioso/student-information-asp.git
+   cd student-information-asp
    ```
 
 2. **Update Database Connection**
