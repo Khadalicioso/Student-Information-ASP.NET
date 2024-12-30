@@ -48,42 +48,13 @@ A modern, secure, and user-friendly student information management system built 
 - **JavaScript:** jQuery
 - **CSS:** Custom responsive styles
 
-## 🚀 Getting Started
-
-### Prerequisites
+## 🚀 Prerequisites
 ```bash
 # Required
 ✓ .NET 8.0 SDK
 ✓ SQL Server 2019+
 ✓ Visual Studio 2022 or VS Code
 ```
-
-### Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Khadalicioso/student-information-system-aspdotnet.git
-   cd student-information-system-aspdotnet
-   ```
-
-2. **Update Database Connection**
-   ```json
-   {
-     "ConnectionStrings": {
-       "StudentInfo": "Server=(localdb)\\mssqllocaldb;Database=StudentInfo;Trusted_Connection=True"
-     }
-   }
-   ```
-
-3. **Run Migrations**
-   ```bash
-   dotnet ef database update
-   ```
-
-4. **Run the Application**
-   ```bash
-   dotnet run
-   ```
 
 ## 📚 Documentation
 
@@ -106,18 +77,6 @@ StudentInfo/
 - **UI/UX:** Responsive Bootstrap design
 - **Security:** XSS protection, secure auth flow
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📝 License
 
 This project is [MIT](LICENSE) licensed.
-
----
-
-<div align="center">
-Made with ❤️ for educational purposes
-
-[⬆ back to top](#-student-information-system)
-</div>
